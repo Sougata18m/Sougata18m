@@ -2,7 +2,7 @@
 
 🎯 *Aspiring Data Analyst* | 📊 Data Enthusiast | 🧠 Lifelong Learner  
 
-Welcome to my GitHub profile! I'm Sudipta, an aspiring data analyst passionate about uncovering insights from data and turning numbers into stories that make an impact.
+Welcome to my GitHub profile! I'm Sougata, an aspiring data analyst passionate about uncovering insights from data and turning numbers into stories that make an impact.
 
 I'm currently building a strong foundation in data analysis and visualization, and using this space to document my learning journey, experiments, and (soon!) real-world projects.
 
